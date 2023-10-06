@@ -12,7 +12,7 @@
 -->
 
 ## Convention
-> **Naming Convention**
+> **Repository Naming Convention**
 * 소문자 사용
 * 대시 사용
 
