@@ -10,3 +10,18 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+## Convention
+> **Naming Convention**
+* 소문자 사용
+* 대시 사용
+
+|Category1|Category2|Category3|etc|
+|:--------|:--------|:--------|:---|
+|App||||
+|Server||||
+|Web||||
+||Flutter|||
+|||Study||
+|||ProjectName||
+||||SDK|
